@@ -1,4 +1,4 @@
 baseURL = "https://deeperbreaths.org/"
 languageCode = "en-us"
 title = "Deeper Breaths"
-theme = "ananke"
+theme = "cleanwhite"
