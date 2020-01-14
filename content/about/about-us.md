@@ -10,6 +10,7 @@ featuredpath = "date"
 linktitle = "about-us"
 title = "About Us"
 type = "post"
+draft = false
 +++
 
 
