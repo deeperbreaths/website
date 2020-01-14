@@ -15,9 +15,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "Deeper Breathes - life at full saturation"
+  description          = "Deeper breaths - life at full saturation"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Deeper Breathes"
+  navbarTitle          = "Deeper breaths"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/categories/"
 
