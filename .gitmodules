@@ -8,3 +8,15 @@
 [submodule "themes/cleanwhite"]
 	path = themes/cleanwhite
 	url = git@github.com:zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/den"]
+	path = themes/den
+	url = git@github.com:shaform/hugo-theme-den.git
+[submodule "themes/navigator"]
+	path = themes/navigator
+	url = git@github.com:themefisher/navigator-hugo.git
+[submodule "themes/academia"]
+	path = themes/academia
+	url = git@github.com:themefisher/Academia-hugo.git
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
