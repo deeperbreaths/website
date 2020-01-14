@@ -15,7 +15,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "Deeper Breathes - live lively"
+  description          = "Deeper Breathes - life at full saturation"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Deeper Breathes"
   # Sets where "View More Posts" links
@@ -23,7 +23,7 @@ canonifyURLs = true
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
-  dynamicTitles        = true
+  dynamicTitles        = false
   # Sets RSS icons to appear on the sidebar with the social media buttons
   rssAppearAtTop       = true
   rssAppearAtBottom    = true
@@ -46,11 +46,11 @@ canonifyURLs = true
   socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
-  socialShareGoogleplus = true
+  socialShareGoogleplus = false
   socialShareFacebook  = true
   socialShareReddit    = true
-  socialShareLinkedin  = true
-  socialShareStumbleupon = true
+  socialShareLinkedin  = false
+  socialShareStumbleupon = false
   socialSharePinterest = true
   socialShareEmail     = true
 
@@ -64,7 +64,7 @@ canonifyURLs = true
 
   # options for highlight.js (version, additional languages, and theme)
   disable_highlight = false # set to true to disable Highlight
-  highlightjsVersion = "9.11.0"
+  highlightjsVersion = "9.17.0"
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "css"]
   highlightjsTheme = "github"
@@ -76,8 +76,7 @@ canonifyURLs = true
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
   header    = "Deeper Breaths"
-  paragraph = "Live Lively"
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  paragraph = "life at full saturation"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -88,7 +87,7 @@ canonifyURLs = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Live Lively"
+    alt       = "life at full saturation"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -152,36 +151,35 @@ canonifyURLs = true
   codepen          = ""
   # Visual Art Communities
   deviantart       = ""
-  flickr           = "example"
+  flickr           = ""
   behance          = ""
   dribbble         = ""
   # Publishing Communities
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
-  linkedin_company = "examplebusiness"
+  linkedin         = ""
   foursquare       = ""
   xing             = ""
   slideshare       = ""
   # Social Networks
   facebook         = "example"
   googleplus       = ""
-  reddit           = "example"
+  reddit           = ""
   quora            = ""
   youtube          = ""
   vimeo            = ""
-  whatsapp         = "" # WhatsApp Number
+  whatsapp         = ""
   instagram        = "example"
   tumblr           = ""
   twitter          = "example"
   skype            = ""
   snapchat         = ""
   pinterest        = "example"
-  telegram         = "example"
+  telegram         = ""
   vine             = ""
   googlescholar    = ""
   orcid            = ""
-  researchgate     = "example"
+  researchgate     = ""
   # Email
   email            = "info@deeperbreaths.net"
