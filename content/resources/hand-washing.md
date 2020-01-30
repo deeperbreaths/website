@@ -3,6 +3,7 @@ author = "Karen McAdams"
 categories = ["resources"]
 tags = ["washing", "hygeine"]
 date = "2020-01-01"
+draft = true
 description = ""
 featured = "person-washing-hands.jpg"
 featuredalt = "Person washing hands"

@@ -3,7 +3,7 @@
 author = "Karen McAdams"
 categories = ["resources"]
 tags = ["learning", "motivation"]
-date = "2020-01-13"
+date = "2020-01-07"
 description = ""
 title = "Motivation"
 type = "post"

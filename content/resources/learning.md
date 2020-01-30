@@ -3,7 +3,8 @@
 author = "Karen McAdams"
 categories = ["resources"]
 tags = ["learning", "information"]
-date = "2020-01-13"
+date = "2020-01-01"
+draft = true
 description = ""
 title = "Learning"
 type = "post"
