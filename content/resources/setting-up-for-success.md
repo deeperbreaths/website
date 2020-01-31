@@ -3,7 +3,7 @@
 author = "Karen McAdams"
 categories = ["resources"]
 tags = ["tools", "ideas"]
-date = "2020-01-01"
+date = "2020-01-31"
 description = ""
 title = "Setting up for success"
 type = "post"
