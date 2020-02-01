@@ -1,18 +1,13 @@
+
 +++
 author = "Karen McAdams"
-categories = ["about"]
 tags = ["about"]
 date = "2020-01-01"
-description = ""
-featured = "map.jpg"
-featuredalt = "map"
-featuredpath = "date"
-linktitle = "about-us"
+description = "who we are"
 title = "About Us"
+linktitle = "about-us"
 type = "post"
-
 +++
-
 
 
 # About Us

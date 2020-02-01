@@ -138,7 +138,6 @@ canonifyURLs = true
   identifier = "fa fa-envelope-o"
   weight = 7
 
-
 [[menu.main]]
   name = "FAQ"
   url = "/faq/"
