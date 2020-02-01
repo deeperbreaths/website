@@ -4,8 +4,12 @@ author = "Karen McAdams"
 categories = ["resources"]
 tags = ["tools", "kids"]
 date = "2020-01-13"
-description = ""
 title = "From our kids to your kids"
+description = "Things that our kids enjoy that yours likely will as well!"
+featured = "brown-teddy-bear.jpg"
+featuredalt = "brown-teddy-bear"
+featuredpath = "img/main"
+linktitle = "from-our-kids-to-your-kids"
 type = "post"
 +++
 

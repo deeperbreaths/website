@@ -48,10 +48,10 @@ canonifyURLs = true
   socialShareTwitter   = true
   socialShareGoogleplus = false
   socialShareFacebook  = true
-  socialShareReddit    = true
+  socialShareReddit    = false
   socialShareLinkedin  = false
   socialShareStumbleupon = false
-  socialSharePinterest = true
+  socialSharePinterest = false
   socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
@@ -63,7 +63,7 @@ canonifyURLs = true
   customJS             = ["default"]
 
   # options for highlight.js (version, additional languages, and theme)
-  disable_highlight = false # set to true to disable Highlight
+  disable_highlight = true # set to true to disable Highlight
   highlightjsVersion = "9.17.0"
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "css"]
@@ -83,10 +83,10 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/img/main/logo.jpg"
     # Sets Image to be a cirlce
-    circle    = false
+    circle    = true
     # Sets Image to be Future Imperfect's hexagon
-    imperfect = true
-    width     = ""
+    imperfect = false
+    width     = "100px"
     alt       = "life at full saturation"
 
 [params.postAmount]

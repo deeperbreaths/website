@@ -4,8 +4,12 @@ author = "Karen McAdams"
 categories = ["resources"]
 tags = ["tools", "ideas"]
 date = "2020-01-31"
-description = ""
+description = "10 tips to set you up for success"
 title = "Setting up for success"
+featured = "success-go-get-it.jpg"
+featuredalt = "success"
+featuredpath = "img/main"
+linktitle = "setting-up-for-success"
 type = "post"
 +++
 
