@@ -6,6 +6,9 @@ categories = ["printables"]
 type = "post"
 +++
 
-# Cough Spot Coloring Page
 
-This will be a pdf printable showing kids how to safely cover their cough.
+![cough-spot.png](/img/main/cough-spot.png)
+
+
+# Download
+We have also included a PDF download [here](/pdf/cough-spot.pdf "cough spot pdf download")
