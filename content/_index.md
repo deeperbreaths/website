@@ -12,7 +12,7 @@ type = "post"
 
 # About Us
 
-Hello! We are Karen and Steve, parents of soon-to-be six kids, two of whom are diagnosed with Primary Ciliary Dyskinesia. We will see about the sixth after he is born! We have been navigating the space and lifestyle of airway clearance treatments for almost six years now, and thought that we could share some things we have learned along the way. Stop in, explore, and learn how to live a full life by taking deeper breaths!
+Hello! We are Karen and Steve, parents of six kids, two of whom are diagnosed with Primary Ciliary Dyskinesia. We have been navigating the space and lifestyle of airway clearance treatments for almost six years now, and thought that we could share some things we have learned along the way. Stop in, explore, and learn how to live a full life by taking deeper breaths!
 
 # Why Deeper Breaths?
 
